@@ -1222,7 +1222,7 @@ public class UserServiceImpl implements UserServiceI {
 		response.setContent(content);
 		return response;
 	}
-
+//update on 24 july 2021
 	@Override
 	@Transactional
 	public OpfResponse addRevision(Revision_Request req, Integer so_id, String loginid)
