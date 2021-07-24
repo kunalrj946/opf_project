@@ -1,0 +1,12 @@
+2021-06-26 22:27:34 [restartedMain] INFO  com.alethe.opf.OpfApplication -
+				Starting OpfApplication on localhost.localdomain with PID 6390 (/home/kunal/opf_project/opf/target/classes started by kunal in /home/kunal/opf_project/opf)
+2021-06-26 22:27:34 [restartedMain] DEBUG com.alethe.opf.OpfApplication -
+				Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2021-06-26 22:27:34 [restartedMain] INFO  com.alethe.opf.OpfApplication -
+				No active profile set, falling back to default profiles: default
+2021-06-26 22:28:46 [restartedMain] INFO  com.alethe.opf.OpfApplication -
+				Starting OpfApplication on localhost.localdomain with PID 6482 (/home/kunal/opf_project/opf/target/classes started by kunal in /home/kunal/opf_project/opf)
+2021-06-26 22:28:46 [restartedMain] DEBUG com.alethe.opf.OpfApplication -
+				Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2021-06-26 22:28:46 [restartedMain] INFO  com.alethe.opf.OpfApplication -
+				No active profile set, falling back to default profiles: default
